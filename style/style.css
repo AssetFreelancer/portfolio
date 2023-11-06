@@ -83,7 +83,7 @@ html {
   position: absolute;
   left: 119px;
   top: 466px;
-  width: 1009px;
+  width: 1000px;
 }
 
 .header__title-text {
@@ -179,6 +179,7 @@ html {
 }
 
 .competencies__box:last-child {
+  width: 676px;
   margin-bottom: 0;
 }
 
@@ -238,6 +239,7 @@ html {
 }
 
 .tasks__box-description {
+  
   margin-left: 3px;
   position: relative;
   height: 283px;
@@ -257,6 +259,7 @@ html {
 }
 
 .tasks__box-text {
+  width: 723px;
   position: absolute;
   left: 40px;
   top: 127px;
