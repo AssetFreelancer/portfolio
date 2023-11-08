@@ -64,14 +64,19 @@ html {
   color: #1BFF07;
 }
 
+.description__box {
+  position: absolute;
+}
+
 .header__description {
   position: absolute;
-  left: 125px;
+  left: 1px;
   top: 334px;
   width: 430px;
 }
 
 .header__description-text {
+  display: block;
   color: #FFF;
   font-size: 20px;
   font-weight: 400;
@@ -81,12 +86,13 @@ html {
 
 .header__title {
   position: absolute;
-  left: 119px;
+  left: 1px;
   top: 466px;
   width: 1000px;
 }
 
 .header__title-text {
+  
   color: #1BFF07;
   font-size: 80px;
   font-weight: 400;
